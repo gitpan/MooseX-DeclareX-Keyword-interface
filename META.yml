@@ -1,5 +1,5 @@
 ---
-abstract: 'a module that does something-or-other'
+abstract: 'shiny syntax for MooseX::Interface'
 author:
   - 'Toby Inkster <tobyink@cpan.org>'
 build_requires:
@@ -32,4 +32,4 @@ resources:
   homepage: https://metacpan.org/release/MooseX-DeclareX-Keyword-interface
   license: http://dev.perl.org/licenses/
   repository: https://bitbucket.org/tobyink/p5-moosex-declarex-keyword-interface
-version: 0.001
+version: 0.002

@@ -14,10 +14,10 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 647b6ab93f0cceb477ad7419543b2affc16ade52 Changes
+SHA1 2b5c462855dbf9d4db90ee3f324097fe1445da7c Changes
 SHA1 cc087c3dd6e1b519c680e68cd0231735a68300a0 LICENSE
 SHA1 8bc01b9c0ef6d8fbb6bbb7463642cda08ff06141 MANIFEST
-SHA1 9576d6c8eb81195aad7dfaf0dc326d3a70c08643 META.yml
+SHA1 865b1aef823f76831334888b01763a8e5f35dd8b META.yml
 SHA1 da50d35f9bc21473691888031579fd3ad684e205 Makefile.PL
 SHA1 48b7cc7627dbc8ecc0af58320d58b5628274bcad README
 SHA1 edd9d24a6b511c5586f4e68ef6c8036f5e0d42d6 examples/eg1.pl
@@ -41,17 +41,17 @@ SHA1 0e0eed2e69d9583081868cf4f220068d0a018568 inc/Scalar/Util.pm
 SHA1 feb933cefe2e3762e8322bd6071a2499f3440da1 inc/YAML/Tiny.pm
 SHA1 8105c0510a773b56840995fb4dd2dc64fe9ddaee inc/unicore/Name.pm
 SHA1 36df501c7c9b73c282c5174ed54d8283b2f2cbf2 inc/utf8.pm
-SHA1 39314671edc7e8579d34d4d7617f1e58a145a6f3 lib/MooseX/DeclareX/Keyword/interface.pm
-SHA1 47938528359c481b54fc7a29c5bf153ff78e75de lib/MooseX/DeclareX/Plugin/test_case.pm
-SHA1 62ab17e94475abc49aae0d56edebdb42d3a5fe1c meta/changes.pret
-SHA1 f84f3f76e8157f5a3fd46eef99a9dbf75390b137 meta/doap.pret
+SHA1 9a78fe36f5cac501669fd343da6be59486a7ff6a lib/MooseX/DeclareX/Keyword/interface.pm
+SHA1 823a44775f721be9b6934d4533603f15937c4671 lib/MooseX/DeclareX/Plugin/test_case.pm
+SHA1 4ff240f1e8074ead21a2e1d1afe6415cea6927e5 meta/changes.pret
+SHA1 13912aeec2c616f7ea004a6a7ebd9b41af20566c meta/doap.pret
 SHA1 d0693c6196e9f32fd86a8c815299e2dbf8b63ada meta/makefile.pret
 SHA1 9a10c6019767bf3028a2f551eacc2241651a058a t/01basic.t
 SHA1 18bdec97067fc71ca88a272c52c4e674ea0aecb5 t/02syntax.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.10 (GNU/Linux)
 
-iEYEARECAAYFAlA07iEACgkQzr+BKGoqfTnYQgCeM4VcW5nL1Yes3jlEjiQdhzLa
-MUkAoLh+g7lmrnyBTprDEQqTqq1jDU5U
-=aHn2
+iEYEARECAAYFAlA1DDYACgkQzr+BKGoqfTl89QCfWFUj02e8oUncLKzIPALJ2LEH
+pCsAn3TNKjr5+L3pp83VxGEIslOPpA9g
+=xFEm
 -----END PGP SIGNATURE-----
